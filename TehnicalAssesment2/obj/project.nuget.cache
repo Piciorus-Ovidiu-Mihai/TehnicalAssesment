@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "en1+7eExCuYsod2WM/waWqJgPU6gtl9haaHEL0c0G00J52GvOo4Lccw4qV5BbJbJwlxt4dtPx+Jhqe3Ep2XRoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ovidiu\\source\\repos\\TehnicalAssesment2\\TehnicalAssesment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ovidiu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
