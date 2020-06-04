@@ -9,4 +9,6 @@ Second Assesment : Validate Sudoku with size NxN
 In the TehnicalAssesment2 folder you can find Program.cs where are all code and some explanations for code.
 
 For openning the application in C# you have to download the folders and click on TehnicalAssesment.sln or TehnicalAssesment2.sln.
+For ValidateSudoku in python I used Jupyter Notebook for writing the code .You can find the code in ValidateSudoku.py.
 
+Thank you for the challenge!
